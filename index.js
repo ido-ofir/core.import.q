@@ -3,7 +3,7 @@
 var q = require('q');
 
 module.exports = {
-    name: 'core.imports.q',
+    name: 'core.import.q',
     imports: {
         q: q
     }

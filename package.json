@@ -1,6 +1,6 @@
 {
-  "name": "core.imports.q",
-  "version": "0.1.4",
+  "name": "core.import.q",
+  "version": "1.5.0",
   "description": "frontend toolchain",
   "main": "index.js",
   "dependencies": {
